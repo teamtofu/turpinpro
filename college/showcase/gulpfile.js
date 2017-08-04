@@ -5,7 +5,7 @@ const rename = require('gulp-rename');
 gulp.task('default', () =>
     gulp.src('prestyle.css')
         .pipe(autoprefixer({
-            browsers: ['last 2 versions', "> 1% in US"]
+            browsers: ['last 2 versions', "> 1% in US", "Safari >= 7"]
         }))
         .pipe(rename({
             basename: "style"
