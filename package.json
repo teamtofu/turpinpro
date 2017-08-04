@@ -1,0 +1,25 @@
+{
+  "name": "turpinpro",
+  "version": "1.0.0",
+  "description": "Website for Turpin clubs and activities!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamtofu/turpinpro.git"
+  },
+  "keywords": [
+    "turpin",
+    "school",
+    "club",
+    "activity"
+  ],
+  "author": "Russell Steadman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamtofu/turpinpro/issues"
+  },
+  "homepage": "https://github.com/teamtofu/turpinpro#readme"
+}
